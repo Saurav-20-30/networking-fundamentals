@@ -1,68 +1,68 @@
-# TCP/IP Model
+# 🌐 TCP/IP Model
 
-The TCP/IP (Transmission Control Protocol / Internet Protocol) model is a practical networking model used for real-world communication over the internet. It forms the foundation of networking and cybersecurity.
+The TCP/IP (Transmission Control Protocol / Internet Protocol) model is a practical networking model used for real-world communication over the internet. It forms the foundation of **networking and cybersecurity**.
 
-## TCP/IP Layers
-1. Application  
-2. Transport  
-3. Internet  
-4. Network Access  
+## 📊 TCP/IP Layers
+1. Application 🖥️  
+2. Transport 🔗  
+3. Internet 🌍  
+4. Network Access 🔌  
 
-## Application Layer
+## 🖥️ Application Layer
 **Function:**
 - Provides services to user applications
 
 **Protocols:**
-- HTTP / HTTPS
-- FTP
-- SMTP
-- DNS
-- SSH
+- HTTP / HTTPS 🌐
+- FTP 📁
+- SMTP ✉️
+- DNS 🌐
+- SSH 🔒
 
 **Security Perspective:**
-- Web-based attacks like SQL Injection and XSS occur here
+- Web-based attacks like SQL Injection 💉 and XSS ⚠️ occur here
 
-## Transport Layer
+## 🔗 Transport Layer
 **Function:**
 - End-to-end communication
 
 **Protocols:**
-- TCP
-- UDP
+- TCP ✅
+- UDP ⚡
 
 **Security Perspective:**
-- SYN flood attacks
-- Port scanning
+- SYN flood attacks 🌊
+- Port scanning 🔍
 
-## Internet Layer
+## 🌍 Internet Layer
 **Function:**
 - Logical addressing and routing
 
 **Protocols:**
-- IP
-- ICMP
-- ARP
+- IP 📍
+- ICMP 📡
+- ARP 🔄
 
 **Security Perspective:**
-- IP spoofing
-- ICMP flooding
+- IP spoofing 🎭
+- ICMP flooding 🌊
 
-## Network Access Layer
+## 🔌 Network Access Layer
 **Function:**
 - Physical data transmission
 
 **Technologies:**
-- Ethernet
-- Wi-Fi
+- Ethernet 🖧
+- Wi-Fi 📶
 
 **Security Perspective:**
-- MAC spoofing
-- ARP poisoning
+- MAC spoofing 🐱‍👤
+- ARP poisoning ☠️
 
-## Relevance to Cybersecurity
-- Helps identify attack locations
-- Essential for penetration testing
-- Used in firewall and IDS/IPS placement
+## 🔐 Relevance to Cybersecurity
+- Helps identify attack locations 🗺️
+- Essential for penetration testing 🛡️
+- Used in firewall and IDS/IPS placement 🖥️🛡️
 
-## Learning Note
-This file is part of my networking fundamentals learning.
+## 📘 Learning Note
+This file is part of my **networking fundamentals learning**.
