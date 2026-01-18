@@ -80,3 +80,6 @@ Reconnaissance is the process of gathering information about a target system, ne
 
 ## 🔗 TryHackMe Lab Link
 https://tryhackme.com/room/metasploitintro?utm_campaign=social_share&utm_medium=social&utm_content=room&utm_source=copy&sharerId=69417cf04c4edd4d538707b6
+
+## 📄 Detailed Report (PDF)
+[View Full PDF Report](SauravGajananPatil_CodeBreach_SBG.pdf)
